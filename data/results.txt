@@ -3,3 +3,8 @@ Date of Test: 2023-10-10 17:20:03
 Bubble Sort Time: 13.187571 seconds
 Quick Sort Time: 0.019813 seconds
 
+Computer Name: zenboook14
+Date of Test: 2026-06-25 09:29:42
+Bubble Sort Time: 6.248187 seconds
+Quick Sort Time: 0.013846 seconds
+
